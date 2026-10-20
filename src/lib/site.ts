@@ -17,8 +17,8 @@ export const company = {
   pecHref: "mailto:pscediliziamodernasrl@legalmail.it",
   vat: "12249270963",
   rea: "MB-2649346",
-  instagram: "https://instagram.com",
-  facebook: "https://facebook.com",
+  instagram: "https://www.instagram.com/p.s.c.ediliziamoderna/",
+  facebook: "https://www.facebook.com/people/PSC-edilizia-moderna-srl/61550327279068/",
   maps: "https://www.google.it/maps/place/Via+Caravaggio,+26D,+20851+Lissone+MB/@45.603771,9.2448603,17z",
   osmEmbed:
     "https://www.openstreetmap.org/export/embed.html?bbox=9.23486%2C45.59977%2C9.25486%2C45.60777&layer=mapnik&marker=45.603771%2C9.2448603",
